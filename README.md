@@ -21,7 +21,7 @@ Hi there, I'm Karan 👋
 * I'm B.tech graduate in Computer Science.
 * I’m currently learning as much as i can.
 * 2022 Goals: Contribute more to Open Source projects & Land a Internship/Graduate Role.
-* git@github.com:karan24mohan/Portfolio.git
+* karan24mohan/Portfolio.git
 
 Connect with me:
 
