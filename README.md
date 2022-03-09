@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Karan-Mohan
-Hi there, I'm Karan 👋
+
+I'm Karan
 * I'm a budding Frontend Developer👨‍💻, and Gamer🎮
 * I'm B.tech graduate in Computer Science.
 * I’m currently learning as much as i can.
