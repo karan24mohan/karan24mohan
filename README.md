@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 I'm Karan
-* I'm a budding Frontend Developer👨‍💻, and Gamer🎮
+* I'm a Frontend Developer👨‍💻.
 * I'm B.tech graduate in Computer Science.
 * I’m currently learning as much as i can.
 * 2022 Goals: Contribute more to Open Source projects & Land a Internship/Graduate Role.
