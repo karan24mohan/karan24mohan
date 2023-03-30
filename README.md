@@ -24,7 +24,7 @@ I'm Karan
 * I'm a Frontend Developer👨‍💻.
 * I'm B.tech graduate in Computer Science.
 * I’m currently learning as much as i can.
-* 2022 Goals: Contribute more to Open Source projects & Land a Internship/Graduate Role.
+* 2023 Goals: Contribute more to Open Source projects & Land a Internship/Graduate Role.
 * https://karan24mohan.github.io/Portfolio/
 
 Connect with me:
